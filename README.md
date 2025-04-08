@@ -74,13 +74,3 @@ async function main() {
     console.log(await getPumpSwapPool(mint));
 }
 ```
-
-    ## Author
-    
-    Discord: takhi_77 in discord
-    
-    Telegram: [@SolSon](https://t.me/@pio_sol)
-    
-    You can always feel free to find me here for my help on other projects.
-
-
