@@ -16,8 +16,8 @@ This bot is designed to to buy and sell tokens in PumpSwap that migrated from pu
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/PioSol7/Solana_PumpSwap_Bot.git
-cd Solana_PumpSwap_Bot
+git clone https://github.com/kindsecret/pumpswap_bot_sol.git
+cd pumpswap_bot_sol
 ```
 2. Install dependencies
 ```
